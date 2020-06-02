@@ -1,2 +1,3 @@
 # Infinite-Days-of-Code-Day_02
-Infinite-Days-of-Code-Day_02_My_biography_with_css
+
+https://fasasisherif.github.io/Infinite-Days-of-Code-Day_02/My_Biography.html
